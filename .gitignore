@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+tally_log/
+proposals_out/*.pptx
+proposals_out/*.pdf
+*.~lock.*
+.DS_Store
