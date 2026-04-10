@@ -1,0 +1,47 @@
+{
+  "business": {
+    "name": "Shree Ganesh Pipes & Sanitary",
+    "tagline": "Premium Sanitaryware & Piping Solutions Since 2005",
+    "address": "Shop 14-15, Patel Market, Navrangpura, Ahmedabad - 380009, Gujarat",
+    "phone": "+919876501234",
+    "email": "sales@sgpipes.in",
+    "website": "www.sgpipes.in",
+    "gstin": "24AABCS1234F1Z5",
+    "logo_path": ""
+  },
+  "brand": {
+    "primary_hex": "1E2761",
+    "accent_hex": "CADCFC",
+    "text_hex": "212121"
+  },
+  "terms": {
+    "validity_days": 15,
+    "payment_terms": "50% advance, balance before dispatch",
+    "delivery_time": "5-7 working days from confirmed order",
+    "warranty": "Manufacturer warranty as applicable",
+    "freight": "Extra as actuals unless mentioned",
+    "gst_note": "GST @ applicable rate will be charged extra"
+  },
+  "twilio": {
+    "account_sid": "DEMO_MODE",
+    "auth_token": "DEMO_MODE",
+    "from_whatsapp": "whatsapp:+14155238886",
+    "my_whatsapp": "whatsapp:+919876501234",
+    "media_host_base": ""
+  },
+  "tally": {
+    "url": "http://localhost:9000",
+    "company_name": "Shree Ganesh Pipes & Sanitary",
+    "use_stock_items": true,
+    "ledgers": {
+      "sales": "Sales A/c",
+      "cgst": "Output CGST @ 9%",
+      "sgst": "Output SGST @ 9%"
+    }
+  },
+  "paths": {
+    "inventory": "data/inventory.xlsx",
+    "clients": "data/clients.xlsx",
+    "proposals_out": "proposals_out"
+  }
+}
