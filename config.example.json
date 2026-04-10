@@ -1,0 +1,47 @@
+{
+  "business": {
+    "name": "Your Business Name Pvt Ltd",
+    "tagline": "Sanitaryware & Piping Solutions",
+    "address": "Your Address, City, State - PIN",
+    "phone": "+91XXXXXXXXXX",
+    "email": "you@yourbusiness.in",
+    "website": "www.yourbusiness.in",
+    "gstin": "24XXXXX0000X1Z5",
+    "logo_path": ""
+  },
+  "brand": {
+    "primary_hex": "1E2761",
+    "accent_hex": "CADCFC",
+    "text_hex": "212121"
+  },
+  "terms": {
+    "validity_days": 15,
+    "payment_terms": "50% advance, 50% before dispatch",
+    "delivery_time": "7-10 working days from confirmed order",
+    "warranty": "Manufacturer warranty as applicable",
+    "freight": "Extra as actuals unless specified",
+    "gst_note": "GST @ applicable rate will be charged extra"
+  },
+  "twilio": {
+    "account_sid": "ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "auth_token": "your_auth_token_here",
+    "from_whatsapp": "whatsapp:+14155238886",
+    "my_whatsapp": "whatsapp:+91XXXXXXXXXX",
+    "media_host_base": ""
+  },
+  "tally": {
+    "url": "http://localhost:9000",
+    "company_name": "Your Company As In Tally",
+    "use_stock_items": true,
+    "ledgers": {
+      "sales": "Sales A/c",
+      "cgst": "Output CGST @ 9%",
+      "sgst": "Output SGST @ 9%"
+    }
+  },
+  "paths": {
+    "inventory": "data/inventory.xlsx",
+    "clients": "data/clients.xlsx",
+    "proposals_out": "proposals_out"
+  }
+}
