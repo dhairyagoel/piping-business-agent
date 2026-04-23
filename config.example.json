@@ -43,5 +43,9 @@
     "inventory": "data/inventory.xlsx",
     "clients": "data/clients.xlsx",
     "proposals_out": "proposals_out"
+  },
+  "google_sheets": {
+    "inventory_url": "https://docs.google.com/spreadsheets/d/YOUR_INVENTORY_SHEET_ID/edit",
+    "clients_url": "https://docs.google.com/spreadsheets/d/YOUR_CLIENTS_SHEET_ID/edit"
   }
 }
